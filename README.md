@@ -29,4 +29,7 @@ Get started:
 * The spreadsheet ID must be added to buildPages.py.  
 * The filepath in buildPages.py should be adjusted to match your local setup.
 
+Acknowledgement and Thanks:
 
+Funded by National Institues of Health
+Developed at Yale University for use by the School of Medicine's Vaccarino Lab http://vaccarinolab.org and Gerstein Lab http://gersteinlab.org
