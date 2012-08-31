@@ -25,7 +25,7 @@ Explore:
 
 Get started:
 
-* A google spreadsheet with the columns as shown abouve or in Example.ods or Example.xls must be created and shared with a user identified in GoogleSpreadsheet.py.  
+* A google spreadsheet with the columns as shown abouve or in setup/Example.ods or setup/Example.xls must be created and shared with a user identified in GoogleSpreadsheet.py.  
 * The spreadsheet ID must be added to buildPages.py.  
 * The filepath in buildPages.py should be adjusted to match your local setup.
 
