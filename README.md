@@ -33,4 +33,5 @@ Acknowledgement and Thanks:
 
 Funded by National Institues of Health  
 Developed at Yale University  
-Use by the School of Medicine's Vaccarino Lab http://vaccarinolab.org and Gerstein Lab http://gersteinlab.org
+Used by the Yale School of Medicine's  
+Vaccarino Lab http://vaccarinolab.org and Gerstein Lab http://gersteinlab.org
