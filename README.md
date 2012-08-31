@@ -5,6 +5,9 @@ Python-based CMS system that uses Google spreadsheets on the back end.
 
 This is a simple CMS system that generates static web pages where the content of the pages is stored in a Google spreadsheet.  This allows end users who may only know simple HTML but who are very familiar with spreadsheets, to manage a set of webpages.
 
+Example spreadsheet may be viewed here: https://docs.google.com/spreadsheet/ccc?key=0As1la0W5jXA3dGJUUVlNR2VteGNmS191VU9TNDRTa1E  
+Example website my be viewed here:  http://goezinta.com/example/
+
 Directory Structure:
 
 setup/ contains Google Spreadsheet example data  
